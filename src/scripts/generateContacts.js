@@ -23,3 +23,5 @@ const generateContacts = async (number) => {
 };
 
 generateContacts(5);
+
+//Після виконання команди npm run generate, у файлі src/db/db.json повинна з'явитися передана кількість нових контактів
